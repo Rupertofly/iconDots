@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#B0D865;}
+</style>
+<path id="Top" class="st0" d="M256.5,41.3c-17.3-4.8-35.6,2.4-45,17.7L65.7,311.6c-7.2,12.4-7.2,27.6,0,40s20.3,20,34.6,20h64.9
+	l23.1-40h-88L245.7,79.8v246.8h40V79.8C285.7,61.9,273.8,46.2,256.5,41.3z"/>
+<path id="Bottom" class="st0" d="M285.7,376.8h-40v55.7L198,404.9l42.7-73.9v-74.5c-3.8,3.1-77.5,128.4-77.5,128.4
+	c-11,19.1-4.4,43.6,14.7,54.6l2,1.2l45.7,26.4c12.4,7.1,27.6,7.1,40,0s20-20.3,20-34.6L285.7,376.8z"/>
+<polygon id="Middle" class="st0" points="285.3,331.6 246.1,331.6 223,371.6 308.4,371.6 "/>
+<path id="Right" class="st0" d="M430.8,367.4c-0.2-2.1-0.6-4.1-1.1-6.2c-4.7-17.5-20.5-29.7-38.6-29.7h-48l23.1,40h24.9l-23,13.3
+	c0,0-73.5-125.4-77.4-128.4v74.5l42.7,73.9c11,19.1,35.5,25.7,54.6,14.7l23-13.3C424.9,398.3,432.5,383,430.8,367.4z"/>
+</svg>
